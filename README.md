@@ -16,5 +16,5 @@ Bu, Python kullanılarak AES (Advanced Encryption Standard) şifreleme algoritma
 <code>pip install pycryptodome</code>
 
 ## Kullanımı
-1- şifrelenecek metni giriniz
+1- şifrelenecek metni giriniz<br>
 2- Şifreleme işlemi tamamlandıktan sonra, şifrelenmiş metin ekrana yazdırılacaktır
